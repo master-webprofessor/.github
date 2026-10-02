@@ -30,7 +30,16 @@ For Bonapi, a Dutch training center, we moved multilingual sites from WordPress 
 
 ## Stack
 
-**Astro**, **Sanity**, **Cloudflare**, **React**, **Next.js**, **TypeScript**, **Spring Boot**, **Java**, **Azure**, **Google Cloud**, **REST APIs**, **WebMCP**.
+- **Astro**: websites, static and server-rendered
+- **Sanity**: headless CMS, content editing without a developer
+- **Cloudflare**: hosting, CDN, edge functions
+- **React** and **Next.js**: web application frontends and customer panels
+- **TypeScript**: frontend and backend code
+- **Spring Boot** and **Java**: backend systems, billing, integrations
+- **REST APIs**: ERP, CRM, payment and supplier integrations
+- **Azure** and **Google Cloud**: application hosting and infrastructure
+- **WebMCP**: websites ready for AI agents
+- **AI automation**: LLM integrations (Claude, GPT) inside business processes
 
 ## Team
 
