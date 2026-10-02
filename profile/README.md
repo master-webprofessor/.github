@@ -1,24 +1,36 @@
 # WebProfessor
 
-Software house from Warsaw, founded in 2019. We build two things for companies: business websites on Astro, Sanity and Cloudflare, and custom web applications in React, Next.js and Spring Boot. A senior-only team, everyone with 8+ years of experience, and clients talk directly to the CEO and CTO.
+Software house from Warsaw, founded in 2019. We build two things for companies: business websites on **Astro**, **Sanity** and **Cloudflare**, and custom web applications in **React**, **Next.js** and **Spring Boot**. A senior-only team, everyone with 8+ years of experience, and clients talk directly to the CEO and CTO.
 
 ## What we build
 
-**Business websites.** Astro, Sanity headless CMS and Cloudflare. Fast, secure, high in Google and AI search, easy to edit without a developer. We migrate sites from WordPress and other CMSs without losing rankings, and we prepare them for AI agents with WebMCP. Our websites raise conversion by 47.2% on average, with an average ROI of 324% in the first six months.
+### Business websites
 
-**Custom web applications.** The systems companies run on every day: patient and customer panels, sales and booking tools, billing, e-learning, internal management systems. React, Next.js and Spring Boot, integrated with the ERP, CRM and payment tools a company already uses, plus AI automation where it saves real work.
+**Astro**, **Sanity headless CMS** and **Cloudflare**. Fast, secure, high in Google and AI search, easy to edit without a developer. We migrate sites from **WordPress** and other CMSs without losing rankings, and we prepare them for AI agents with **WebMCP**. Our websites raise conversion by 47.2% on average, with an average ROI of 324% in the first six months.
+
+### Custom web applications
+
+The systems companies run on every day: patient and customer panels, sales and booking tools, billing, e-learning, internal management systems. **React**, **Next.js** and **Spring Boot**, integrated with the **ERP**, **CRM** and payment tools a company already uses, plus **AI automation** where it saves real work.
 
 A website and the applications behind it often grow into one connected system. We build it in stages and start with the part that matters most.
 
 ## Industries we know best
 
-- **Healthcare.** For the OpenMed network of medical centers: a website with online booking (+43% conversion, +3782% organic traffic) and MedBill, the platform their clinics run on. We also built their telemedicine service for e-prescriptions and e-referrals, integrated with Poland's P1 e-health system and ZUS.
-- **Automotive.** The ClickLease car leasing website with vehicle search, a leasing calculator and live supplier offers raised conversion by 86%.
-- **Education.** For Bonapi, a Dutch training center, we moved multilingual sites from WordPress to Sanity and Astro and built their training, customer and e-learning system. For Egzamido, an e-learning platform with subscriptions and a study assistant.
+### Healthcare
+
+For the OpenMed network of medical centers: a website with online booking (+43% conversion, +3782% organic traffic) and MedBill, the platform their clinics run on. We also built their telemedicine service for e-prescriptions and e-referrals, integrated with Poland's P1 e-health system and ZUS.
+
+### Automotive
+
+The ClickLease car leasing website with vehicle search, a leasing calculator and live supplier offers raised conversion by 86%.
+
+### Education
+
+For Bonapi, a Dutch training center, we moved multilingual sites from WordPress to **Sanity** and **Astro** and built their training, customer and e-learning system. For Egzamido, an e-learning platform with subscriptions and a study assistant.
 
 ## Stack
 
-Astro, Sanity, Cloudflare, React, Next.js, TypeScript, Spring Boot, Java, Azure, Google Cloud, REST APIs, WebMCP.
+**Astro**, **Sanity**, **Cloudflare**, **React**, **Next.js**, **TypeScript**, **Spring Boot**, **Java**, **Azure**, **Google Cloud**, **REST APIs**, **WebMCP**.
 
 ## Team
 
@@ -29,7 +41,7 @@ Astro, Sanity, Cloudflare, React, Next.js, TypeScript, Spring Boot, Java, Azure,
 ## Links
 
 - Website: [webprofessor.pl/en](https://webprofessor.pl/en/)
-- Reviews: [Clutch](https://clutch.co/profile/webprofessor), [GoodFirms](https://www.goodfirms.co/company/webprofessor), [Trustpilot](https://www.trustpilot.com/review/webprofessor.pl)
+- Reviews: [Google](https://g.co/kgs/okuGQAw), [Clutch](https://clutch.co/profile/webprofessor), [GoodFirms](https://www.goodfirms.co/company/webprofessor), [Trustpilot](https://www.trustpilot.com/review/webprofessor.pl), [DesignRush](https://www.designrush.com/agency/profile/webprofessor)
 - Social: [LinkedIn](https://www.linkedin.com/company/webprofessorpl), [X](https://x.com/webprofessorpl), [YouTube](https://www.youtube.com/@webprofessorpl), [Facebook](https://www.facebook.com/WebProfessorPL), [Instagram](https://www.instagram.com/webprofessorpl)
 
 ## Contact
