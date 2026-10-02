@@ -31,7 +31,7 @@ For Bonapi, a Dutch training center, we moved multilingual sites from WordPress 
 ## How we work
 
 - **Direct access.** You talk to the CEO and the CTO, from the first call to the launch and beyond. No account managers in between.
-- **Engineering plus business.** We combine IT with marketing, strategy, design, UX and conversion rate optimization (CRO), so a website is built to bring enquiries and an application to save work hours.
+- **Engineering plus business.** We combine IT with marketing, strategy, design, UX and conversion rate optimization (CRO). A website is built to bring enquiries, an application to save work hours.
 - **We advise and take the initiative.** You get recommendations with reasons, including when a smaller scope is the better choice.
 - **AI used wisely.** We work faster with AI, and every result is checked by our specialists, so quality stays the same.
 - **Results are what count.** Our websites raise conversion by 47.2% on average, with an average ROI of 324% in the first six months.
